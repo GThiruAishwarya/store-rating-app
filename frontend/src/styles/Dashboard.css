@@ -1,3 +1,8 @@
 .dashboard h2 {
   margin-bottom: 1rem;
 }
+.dashboard ul {
+  list-style-type: disc;
+  margin-left: 2rem;
+}
+
